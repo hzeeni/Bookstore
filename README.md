@@ -22,7 +22,7 @@
 
 ## 미리보기
 - 메인페이지
- <img src="https://user-images.githubusercontent.com/77732971/185337225-65cbe3cb-22cc-47ed-b636-9c1b0027def0.JPG"  width="700" height="400"/>
+ <img src="https://user-images.githubusercontent.com/77732971/185339467-3016b07e-aff4-47cf-8445-3f0663b2132c.JPG"  width="700" height="400"/>
 
 - 사용자페이지
  <img src="https://user-images.githubusercontent.com/77732971/185337578-6bb9a542-b6cf-4393-af06-de52eb48d4b1.JPG"  width="700" height="400"/>
