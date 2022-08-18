@@ -35,6 +35,6 @@
 
 - 관리자페이지
 <br>
-<img src="https://user-images.githubusercontent.com/77732971/185336048-90f055ed-236d-47ec-a1a3-ad313e63a883.JPG"  width="400" height="300"/>
-<img src="https://user-images.githubusercontent.com/77732971/185336547-60069c7e-bc28-46f2-88d5-bc79fd87992c.JPG"  width="400" height="300"/>
-<img src="https://user-images.githubusercontent.com/77732971/185336583-0caa6857-f3b2-4526-9ee2-a09f3abfa734.JPG"  width="400" height="300"/>
+<img src="https://user-images.githubusercontent.com/77732971/185336048-90f055ed-236d-47ec-a1a3-ad313e63a883.JPG"  width="700" height="400"/>
+<img src="https://user-images.githubusercontent.com/77732971/185336547-60069c7e-bc28-46f2-88d5-bc79fd87992c.JPG"  width="700" height="400"/>
+<img src="https://user-images.githubusercontent.com/77732971/185336583-0caa6857-f3b2-4526-9ee2-a09f3abfa734.JPG"  width="700" height="400"/>
